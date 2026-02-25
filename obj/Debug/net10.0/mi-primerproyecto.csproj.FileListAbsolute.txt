@@ -1,0 +1,15 @@
+C:\Documentos\NanoGuardian\mi-primerproyecto\bin\Debug\net10.0\mi-primerproyecto.exe
+C:\Documentos\NanoGuardian\mi-primerproyecto\bin\Debug\net10.0\mi-primerproyecto.deps.json
+C:\Documentos\NanoGuardian\mi-primerproyecto\bin\Debug\net10.0\mi-primerproyecto.runtimeconfig.json
+C:\Documentos\NanoGuardian\mi-primerproyecto\bin\Debug\net10.0\mi-primerproyecto.dll
+C:\Documentos\NanoGuardian\mi-primerproyecto\bin\Debug\net10.0\mi-primerproyecto.pdb
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.AssemblyInfoInputs.cache
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.AssemblyInfo.cs
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.csproj.CoreCompileInputs.cache
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.sourcelink.json
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.dll
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\refint\mi-primerproyecto.dll
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.pdb
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\mi-primerproyecto.genruntimeconfig.cache
+C:\Documentos\NanoGuardian\mi-primerproyecto\obj\Debug\net10.0\ref\mi-primerproyecto.dll
